@@ -1,2 +1,2 @@
 - [CNC Mill for under $100](https://youtu.be/R29G3hUiZnU)
-- [Upgrading my Homemade CNC](
+- [Upgrading my Homemade CNC](https://youtu.be/SwzpX-jgbYM)
