@@ -1,1 +1,2 @@
+- [CNC Mill for under $100](
 - [Upgrading my Homemade CNC](
