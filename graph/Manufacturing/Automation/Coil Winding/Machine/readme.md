@@ -1,1 +1,1 @@
-- [Automatic Coil Winding Machine]
+- [Automatic Coil Winding Machine](https://youtu.be/GJcQfJ6JTZg)
