@@ -1,1 +1,1 @@
-- [Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics](
+- [Building a 5,000W Remote Controlled Arc Furnace to Melt Steel and Ceramics](https://youtu.be/WW6ty2aeZ-k)
